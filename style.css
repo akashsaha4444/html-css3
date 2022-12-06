@@ -61,12 +61,20 @@
     border: 1px solid cornsilk;
     width: 450px;
     height: 500px;
-    background-color: rgb(248, 233, 233);
+    background-color: rgb(233, 227, 227);
     margin-left: 5%;
     margin-top: 6%;
     margin-bottom: 3%;
     border-radius: 8px;
     box-shadow: 10px 10px 10px grey;
+
+}
+
+#pasta-1 {
+    background-image: url(images/pasta.png);
+    background-size: cover;
+    background-position: center;
+
 
 }
 
@@ -92,6 +100,12 @@
     box-shadow: 10px 10px 5px cadetblue;
 
 
+
+}
+
+#burger-1 {
+    background-image: url(images/burger.png);
+    background-position: center;
 
 }
 
